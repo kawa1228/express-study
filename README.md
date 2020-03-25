@@ -2,8 +2,8 @@
 
 run the app:
 ```
-DEBUG=express-study:* npm start
+DEBUG=express-api:* PORT=8000 npm start
 ```
-http://localhost:3000/
+http://localhost:8000/
 
 see manual [Express generator](https://expressjs.com/ja/starter/generator.html)
